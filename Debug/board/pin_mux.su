@@ -1,0 +1,5 @@
+C:\Users\i5 3470\Documents\MCUXpressoIDE_11.10.0_3148\Projekt_inzynierski\i2s_dma_tdm_record_playback\drivers/fsl_iopctl.h:88:22:IOPCTL_PinMuxSet	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:78:6:BOARD_InitCS42448Pins	48	static
+../board/pin_mux.c:292:6:BOARD_InitDebugConsolePins	16	static
+../board/pin_mux.c:355:6:BOARD_InitPins	4	static
